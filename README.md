@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @llvm-chan
+- 👀 I’m interested in [Zig](https://github.com/ziglang/zig).
+- 📫 You can reach me through Discord with the username gentuwu.
